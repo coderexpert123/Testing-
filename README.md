@@ -1,2 +1,2 @@
 # boo
-This is tria version
+This is trial version
